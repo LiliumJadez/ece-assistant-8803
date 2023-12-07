@@ -1,0 +1,22 @@
+[
+    {
+        "instruction": "Please provide the schedules for ECE Discovery Studio and Architecture, Systems, Concurrency, and Energy in Computation.",
+        "input": "ECE Discovery Studio and Architecture, Systems, Concurrency, and Energy in Computation",
+        "output": "ECE Discovery Studio is taught on Wednesdays from 17:00 to 18:55 and Architecture, Systems, Concurrency, and Energy in Computation is taught on Tuesdays and Thursdays from 9:30 to 10:45."
+    },
+    {
+        "instruction": "Can you please provide the schedule for ECE Discovery Studio and Introduction to Probability and Statistics for ECE?",
+        "input": "",
+        "output": "Input: ECE Discovery Studio and Introduction to Probability and Statistics for ECE"
+    },
+    {
+        "instruction": "Please let me know if ECE Discovery Studio and VLSI and Advanced Digital Design are available.",
+        "input": "ECE Discovery Studio and VLSI and Advanced Digital Design",
+        "output": "Yes, ECE Discovery Studio is taught on Wednesdays from 17:00 to 18:55 and VLSI and Advanced Digital Design is taught on Tuesdays and Thursdays from 15:30 to 16:45."
+    },
+    {
+        "instruction": "Can I take the ECE Discovery Studio and the course on Electromechanical and Electromagnetic Energy Conversion?",
+        "input": "",
+        "output": "Input: ECE Discovery Studio and Electromechanical and Electromagnetic Energy Conversion"
+    }
+]
